@@ -1,0 +1,16 @@
+{
+    "name": "axel0ne/brocard",
+    "description": "BroCard test",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "axel0ne",
+            "email": "aleksan94@yandex.ru"
+        }
+    ],
+    "require": {}
+}
